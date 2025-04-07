@@ -1,5 +1,5 @@
 [project]
-name = "growth-mindset-challenge-with-streamlit"
+name = "main"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
