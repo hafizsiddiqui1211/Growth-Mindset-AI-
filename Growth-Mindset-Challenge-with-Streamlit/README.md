@@ -1,5 +1,3 @@
----
-
 # 📈 Growth Mindset AI
 
 Welcome to **Growth Mindset AI** – your personal assistant on the journey to success!  
